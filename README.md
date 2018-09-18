@@ -71,7 +71,7 @@ Expert
 <tr>
 <th>Continuous<br>Testing</th>
 <td>- Centralized unit test server<br>- Unit tests that are manually started</td>
-<td>- Unit tests run in CD-pipeline<br>-Automated integration tests that are manually started</td>
+<td>- Unit tests run in CD-pipeline<br>- Automated integration tests that are manually started</td>
 <td>- Automated acceptance tests that are manually started<br>- Integration tests run in CD-pipeline<br>- Test driven development</td>
 <td>- Automatic Performance and Security tests that are manualy started<br>- Acceptance tests run in CD-pipeline<br>- Behavior driven development</td>
 <td>- Continuous testing pipeline including end2end regression tests</td>
